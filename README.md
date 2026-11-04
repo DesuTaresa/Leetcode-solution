@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0541-reverse-string-ii) |
 | [0856-score-of-parentheses](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0856-score-of-parentheses) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/DesuTaresa/Leetcode-solution/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 ## Sliding Window
 |  |
 | ------- |
