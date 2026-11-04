@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0078-subsets) |
 ## Binary Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0078-subsets) |
 ## Matrix
 |  |
 | ------- |
@@ -125,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
