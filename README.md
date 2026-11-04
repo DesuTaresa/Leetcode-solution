@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+| [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -188,4 +192,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0316-remove-duplicate-letters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
