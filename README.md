@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -45,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
+| [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -86,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
 ## Matrix
 |  |
 | ------- |
@@ -136,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
 ## Quicksort
 |  |
 | ------- |
