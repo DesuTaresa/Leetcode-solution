@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
 ## Quicksort
 |  |
 | ------- |
