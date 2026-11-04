@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0065-valid-number) |
 | [0316-remove-duplicate-letters](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
