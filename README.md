@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 ## String
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 ## Array
 |  |
 | ------- |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 ## Binary Search
 |  |
 | ------- |
