@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0486-predict-the-winner](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0853-car-fleet](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0853-car-fleet) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Binary Search
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0119-pascals-triangle-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
+| [0486-predict-the-winner](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Manacher
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0412-fizz-buzz) |
+| [0486-predict-the-winner](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0509-fibonacci-number) |
 ## Newton's Method
 |  |
@@ -274,4 +278,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
