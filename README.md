@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0231-power-of-two) |
 ## Trie
 |  |
 | ------- |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0231-power-of-two) |
 ## Matrix
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0231-power-of-two) |
 ## Newton's Method
 |  |
 | ------- |
