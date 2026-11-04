@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0060-permutation-sequence) |
+| [0066-plus-one](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0066-plus-one) |
 ## Trie
 |  |
 | ------- |
