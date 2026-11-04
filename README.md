@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0078-subsets) |
 | [0119-pascals-triangle-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0217-contains-duplicate) |
@@ -290,4 +292,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0486-predict-the-winner) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
