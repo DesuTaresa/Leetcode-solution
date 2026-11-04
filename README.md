@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0853-car-fleet](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0853-car-fleet) |
 ## Binary Search
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0349-intersection-of-two-arrays) |
+| [0853-car-fleet](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0853-car-fleet) |
 ## Quicksort
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0316-remove-duplicate-letters) |
+| [0853-car-fleet](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0853-car-fleet) |
 ## Design
 |  |
 | ------- |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0316-remove-duplicate-letters) |
+| [0853-car-fleet](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0853-car-fleet) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
