@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
+| [0412-fizz-buzz](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0412-fizz-buzz) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0172-factorial-trailing-zeroes) |
 | [0231-power-of-two](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0268-missing-number) |
+| [0412-fizz-buzz](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0043-multiply-strings) |
+| [0412-fizz-buzz](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0412-fizz-buzz) |
 ## Recursion
 |  |
 | ------- |
