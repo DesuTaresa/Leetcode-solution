@@ -131,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0078-subsets) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
