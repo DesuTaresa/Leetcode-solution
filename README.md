@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0043-multiply-strings) |
 | [0060-permutation-sequence](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0069-sqrtx) |
 ## Trie
 |  |
 | ------- |
@@ -105,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0060-permutation-sequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
