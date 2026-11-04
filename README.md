@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0065-valid-number) |
+| [0316-remove-duplicate-letters](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0316-remove-duplicate-letters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0316-remove-duplicate-letters](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0316-remove-duplicate-letters) |
 ## Design
 |  |
 | ------- |
@@ -174,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0303-range-sum-query-immutable) |
+## Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0316-remove-duplicate-letters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
