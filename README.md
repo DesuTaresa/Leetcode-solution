@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0078-subsets) |
+| [0119-pascals-triangle-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0119-pascals-triangle-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 ## Manacher
 |  |
 | ------- |
