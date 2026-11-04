@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 ## Sliding Window
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0013-roman-to-integer) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
