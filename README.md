@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -248,4 +249,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0617-merge-two-binary-trees](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0617-merge-two-binary-trees) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
