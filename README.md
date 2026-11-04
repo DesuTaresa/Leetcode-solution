@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0060-permutation-sequence) |
 ## Trie
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0043-multiply-strings) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
