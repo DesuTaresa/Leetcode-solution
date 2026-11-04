@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0541-reverse-string-ii) |
+| [0856-score-of-parentheses](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0856-score-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0316-remove-duplicate-letters](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0316-remove-duplicate-letters) |
 | [0853-car-fleet](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0856-score-of-parentheses) |
 ## Design
 |  |
 | ------- |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0701-insert-into-a-binary-search-tree](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0701-insert-into-a-binary-search-tree) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
