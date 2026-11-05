@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0036-valid-sudoku) |
 | [0041-first-missing-positive](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0078-subsets) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0347-top-k-frequent-elements) |
 ## Two Pointers
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/DesuTaresa/Leetcode-solution/tree/master/0509-fibonacci-number) |
